@@ -53,7 +53,7 @@ When I'm not working with data, I enjoy being outdoors with my family and spendi
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Quality%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Quality Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Quality%20Testing-Experienced-FF6B6B?style=flat" alt="Quality Testing Skill Badge">
   <img src="https://img.shields.io/badge/Economic%20Analysis-Intermediate-4ECDC4?style=flat" alt="Economic Analysis Skill Badge">
   <!-- <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge"> -->
