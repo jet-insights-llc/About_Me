@@ -14,9 +14,9 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping local small businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm the owner of JET Insights LLC. My business is built on being passionate about helping local small businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights to help grow a more confident business owner.
 
-My focus is on building dashboards that impact critical business decisions, automating repetitive tasks to allow more time for additional clients, and supporting my community into a prosperous future.
+My focus is on building dashboards that impact critical business decisions, automating repetitive tasks to allow time for deeper analysis, and supporting my community into a prosperous future.
 
 When I'm not working with data, I enjoy being outdoors with my family and spending time with friends.
 
