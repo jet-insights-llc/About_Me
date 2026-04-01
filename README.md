@@ -21,7 +21,7 @@ My focus is on building dashboards that impact critical business decisions, auto
 When I'm not working with data, I enjoy being outdoors with my family and spending time with friends.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://jet-insights-llc.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/jet-insights-llc?tab=repositories)
       
 ## 🔭 What I'm Currently Working On 
 
